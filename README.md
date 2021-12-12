@@ -15,7 +15,7 @@
 
 # Table of Contents
 
-1. [Getting Started with Advanced Matrix Extensions (AMX)](https://github.com/mikeroyal/AMX-Guide#gettin-started-with-amx)
+1. [Getting Started with Advanced Matrix Extensions (AMX)](https://github.com/mikeroyal/AMX-Guide#getting-started-with-amx)
 
 2. [FPGA Development](https://github.com/mikeroyal/AMX-Guide#fpga-development)
 
