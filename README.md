@@ -15,7 +15,7 @@
 
 # Table of Contents
 
-1. [Getting Started with Advanced Matrix Extensions (AMX)](https://github.com/mikeroyal/AMX-Guide#gettin-started-with-advance-matrix-extnesionsamx)
+1. [Getting Started with Advanced Matrix Extensions (AMX)](https://github.com/mikeroyal/AMX-Guide#gettin-started-with-amx)
 
 2. [FPGA Development](https://github.com/mikeroyal/AMX-Guide#fpga-development)
 
@@ -39,7 +39,7 @@
 
 12. [Deep Learning Development](https://github.com/mikeroyal/AMX-Guide#Deep-Learning-Development)
 
-# Getting Started with Advanced Matrix Extensions(AMX)
+# Getting Started with AMX
 [Back to the Top](https://github.com/mikeroyal/AMX-Guide#table-of-contents)
 
 [Intel® Architecture Instruction Set Extensions and Future Features Programming Reference (PDF)](https://www.intel.com/content/dam/develop/external/us/en/documents/architecture-instruction-set-extensions-programming-reference.pdf)
