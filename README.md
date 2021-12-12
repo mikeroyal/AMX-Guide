@@ -39,7 +39,7 @@
 
 12. [Deep Learning Development](https://github.com/mikeroyal/AMX-Guide#Deep-Learning-Development)
 
-# Getting Started with Advanced Matrix Extensions (AMX)
+# Getting Started with Advanced Matrix Extensions(AMX)
 [Back to the Top](https://github.com/mikeroyal/AMX-Guide#table-of-contents)
 
 [Intel® Architecture Instruction Set Extensions and Future Features Programming Reference (PDF)](https://www.intel.com/content/dam/develop/external/us/en/documents/architecture-instruction-set-extensions-programming-reference.pdf)
@@ -737,6 +737,11 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # Virtualization
 [Back to the Top](https://github.com/mikeroyal/AMX-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/139736405-f98ea7e6-899c-4140-ba16-efd8caa1d856.png">
+  <br />
+</p>
 
 [HVM (Hardware Virtual Machine)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html) is a virtualization type that provides the ability to run an operating system directly on top of a virtual machine without any modification, as if it were run on the bare-metal hardware.
 
