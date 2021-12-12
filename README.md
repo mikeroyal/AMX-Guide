@@ -15,9 +15,9 @@
 
 # Table of Contents
 
-1. [Getting Started with Advanced Matrix Extensions (AMX)](https://github.com/mikeroyal/AMX-Guide#gettin-started-with-advance-matrix-extnesions-amx)
+1. [Getting Started with Advanced Matrix Extensions (AMX)](https://github.com/mikeroyal/AMX-Guide#gettin-started-with-advance-matrix-extnesionsamx)
 
-2. [FPGA Development](https://github.com/mikeroyal/AMX-Guide#fgpa-development)
+2. [FPGA Development](https://github.com/mikeroyal/AMX-Guide#fpga-development)
 
 3. [LLVM Development](https://github.com/mikeroyal/AMX-Guide#llvm-development)
 
@@ -817,6 +817,11 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # Parallel Computing
 [Back to the Top](https://github.com/mikeroyal/AMX-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/134823775-cdb8e082-2f8a-4b72-a7c9-f29554ce1e7b.png">
+  <br />
+</p>
 
 ## Parallel Computing Learning Resources
 
