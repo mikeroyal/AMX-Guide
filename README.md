@@ -56,15 +56,15 @@
 
 [Data-driven accelerators](https://en.wikipedia.org/wiki/Data-driven)  are types of accelerators that operate on a set of data independent of the CPU.
 
-    - [Vector accelerator](https://en.wikichip.org/w/index.php?title=Vector_accelerator&action=edit&redlink=1) is an accelerator used for vector performing large vector operations.
+   - [Vector accelerator](https://en.wikichip.org/w/index.php?title=Vector_accelerator&action=edit&redlink=1) is an accelerator used for vector performing large vector operations.
     
-    - [AI accelerator](https://en.wikichip.org/wiki/AI_accelerator) is an accelerator that operates on predictive models such as artificial neural networks.
+   - [AI accelerator](https://en.wikichip.org/wiki/AI_accelerator) is an accelerator that operates on predictive models such as artificial neural networks.
 
 [Algorithm-driven accelerators](https://en.wikipedia.org/wiki/AI_accelerator)  are types of accelerators that perform a specific algorithm on dedicated hardware.
 
-    - [Compression accelerator](https://en.wikichip.org/w/index.php?title=Compression_accelerator&action=edit&redlink=1) is an accelerator that performs compression using various algorithms.
+   - [Compression accelerator](https://en.wikichip.org/w/index.php?title=Compression_accelerator&action=edit&redlink=1) is an accelerator that performs compression using various algorithms.
     
-    - [Cryptographic accelerator](https://en.wikichip.org/w/index.php?title=Cryptographic_accelerator&action=edit&redlink=1) is an accelerator that performs various cryptography operations.
+   - [Cryptographic accelerator](https://en.wikichip.org/w/index.php?title=Cryptographic_accelerator&action=edit&redlink=1) is an accelerator that performs various cryptography operations.
 
 [Cryptocurrency accelerator](https://en.wikichip.org/wiki/Cryptocurrency_accelerator)  is a special cryptographic accelerator designed to accelerate cryptocurrency transactions.
 
